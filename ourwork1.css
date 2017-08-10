@@ -1,0 +1,69 @@
+@import url("css/bootstrap.min.css");
+.body{
+	margin: 0;
+	padding: 0px;
+	padding-top: 50px;
+}
+.navbar-collapse{
+	border-color: green;
+}
+.navbar-default{
+	margin: 0;
+	/*background-color: #FFF8DC;*/
+}
+.navbar-brand{
+	padding: 0; 
+	border-radius: 25%;
+	margin: 0;
+}
+.jumbotron{
+	text-align: left;
+	padding: 25px;
+	background-color: green;
+	margin-bottom: 0; 
+	min-height: 90px;
+	background-image: url("img/j1.jpg");
+}
+.jumbotext h1{
+	min-height: 150px;
+}
+.section{
+	margin: 0;
+	padding: 0;
+}
+.col-md-8, .col-md-4{
+	
+
+}
+.col-md-8{
+	background-color: #f9f4f3;
+	min-height: 300px;
+	padding: 0 80px;
+	vertical-align: middle;
+	margin: auto;
+}
+.col-md-4{
+	background-color: #f9f4f3;
+	min-height: 300px;
+}
+.img-circle{
+	padding:30px;
+}
+.connect{
+	min-height: 40px;
+	width: 100%;
+	padding: 20px 0;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+	background-color: chartreuse;
+	background: linear-gradient(to right, yellow, green);
+}
+
+.col-md-12 .img5{
+	background-image: url(youths.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
